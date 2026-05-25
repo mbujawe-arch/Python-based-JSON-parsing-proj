@@ -1,0 +1,23 @@
+{
+  "students": [
+    {
+      "student_id": "2024-001",
+      "name": "Juan Dela Cruz",
+      "program": "BSIT",
+      "courses": [
+        {
+          "course_code": "ITP201",
+          "course_title": "Integrative Programming Technologies",
+          "units": 3,
+          "instructor": "Mr. Daniel Uy"
+        },
+        {
+          "course_code": "NET101",
+          "course_title": "Networking Fundamentals",
+          "units": 3,
+          "instructor": "Ms. Maria Santos"
+        }
+      ]
+    }
+  ]
+}
